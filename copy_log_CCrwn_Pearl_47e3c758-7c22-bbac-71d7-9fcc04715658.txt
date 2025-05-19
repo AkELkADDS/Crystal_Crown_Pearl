@@ -1,0 +1,368 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+   Mon 05/19/2025  4:16:54.17 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\0a7bf949-021a-e431-ccae-3211999b3f5c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\1a2aed56-ed9c-f787-70c6-9403f6c38214.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\1fce36bb-44fe-f2cc-dda5-9b24a2292579.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2776112a-0dbc-ae9e-3854-a1cd7734b250.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2d1e9fdb-4fcd-c3c0-511a-9e8278f3ec61.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2e3ff660-bb36-e798-8d74-bfd742e1c8f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2f10b418-fbb4-44e0-bbdb-38a4ee84a84f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\59f986a7-79ce-4a14-bc29-f9bce753739a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\84673095-587a-90ad-5adb-ed133635ef99.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\89347255-a127-b7cb-2ada-f13b98db3ca5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\8a67dd71-c8ee-01fc-d849-dc59c0de7866.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\8aced695-a55d-e1f3-90d2-6aab48b6abe5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\96916b50-ac0f-3624-a871-c7df968106e7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\bf2a9618-0957-8df1-0872-601002335ebc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\e25d50f4-9992-180c-09ee-a5565aa9e139.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\fa2fea5c-ad55-8fa9-a407-dc2d085acdda.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 19 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 2 
+ 
+[LOG] Total files found across all folders: 28 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 to Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using destination: Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:16:58 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png 21%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    4.68 m    4.68 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           4913510000 Bytes/sec.
+   Speed :           281153.297 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:16:58 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 to "Editor\Mods"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using destination: Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:17:00 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   65357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    63.8 k    63.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 4:17:00 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 to Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using destination: Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:17:01 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7785	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\GUI\metadata.lsf100%  
+	    New File  		    4873	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    4.69 m    4.69 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2463310000 Bytes/sec.
+   Speed :           140951.728 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:17:01 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 to Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using destination: Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:17:03 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   47565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\0a7bf949-021a-e431-ccae-3211999b3f5c.lsf100%  
+	    New File  		    2799	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\1a2aed56-ed9c-f787-70c6-9403f6c38214.lsf100%  
+	    New File  		    2801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\1fce36bb-44fe-f2cc-dda5-9b24a2292579.lsf100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2776112a-0dbc-ae9e-3854-a1cd7734b250.lsf100%  
+	    New File  		    2801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2d1e9fdb-4fcd-c3c0-511a-9e8278f3ec61.lsf100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2e3ff660-bb36-e798-8d74-bfd742e1c8f6.lsf100%  
+	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\2f10b418-fbb4-44e0-bbdb-38a4ee84a84f.lsf100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\59f986a7-79ce-4a14-bc29-f9bce753739a.lsf100%  
+	    New File  		    2801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\84673095-587a-90ad-5adb-ed133635ef99.lsf100%  
+	    New File  		    2867	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\89347255-a127-b7cb-2ada-f13b98db3ca5.lsf100%  
+	    New File  		    2799	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\8a67dd71-c8ee-01fc-d849-dc59c0de7866.lsf100%  
+	    New File  		    2865	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\8aced695-a55d-e1f3-90d2-6aab48b6abe5.lsf100%  
+	    New File  		    2798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\96916b50-ac0f-3624-a871-c7df968106e7.lsf100%  
+	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\bf2a9618-0957-8df1-0872-601002335ebc.lsf100%  
+	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\e25d50f4-9992-180c-09ee-a5565aa9e139.lsf100%  
+	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\fa2fea5c-ad55-8fa9-a407-dc2d085acdda.lsf100%  
+	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
+	    New File  		  248480	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        19        19         0         0         0         0
+   Bytes :   952.4 k   952.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           162549833 Bytes/sec.
+   Speed :            9301.176 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:17:03 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 19 
+[DEBUG] Successfully copied files: 19 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
+      Total files: 19 
+      Copied successfully: 19 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 to "Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[DEBUG] Using destination: Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:17:05 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+     Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
+	    New File  		  248480	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   861.7 k   861.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           441204000 Bytes/sec.
+   Speed :           25245.895 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:17:05 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 19 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 28 
+[SUMMARY] Total files successfully copied: 56 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
