@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
-   Mon 05/19/2025  4:16:54.17 
+   Wed 04/08/2026  8:29:34.44 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -53,18 +53,216 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\bf2a9618-0957-8df1-0872-601002335ebc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\e25d50f4-9992-180c-09ee-a5565aa9e139.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\fa2fea5c-ad55-8fa9-a407-dc2d085acdda.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\010ba51c-5883-4bb9-8a1b-5ef8d3ea0927.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\04784284-9129-4051-8b44-b41f1bb4e969.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\0a9d9614-13bf-4885-827e-fca7127c643e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\0ba76160-d49d-40d3-95a7-c2a15d7ea832.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\13c0ef86-e64e-4604-9d3f-0fc4215d243e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\1b52e8e4-5fc5-4aed-8fc9-5bfb2e2fc905.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\1cad456b-aafb-493f-8e63-81d1350e7e27.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\203439fa-f3c7-4f0c-be1c-77c69957c9b9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\213db44b-23a0-4922-8b71-144877a250fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\21c8953a-bb7e-47ff-b770-3c4d190c9d2b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\26149df5-9dd3-4cdb-ae0e-934315e3b3e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\272003f8-a1c7-44f3-ba28-03cfa6745a6d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2a9632d3-3070-4008-a343-4a6d86beafc1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2c9011fc-3d64-4a83-8867-0a21c06049a1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2db44f1c-6d10-46c4-b44e-33db9845efda.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\38416121-a8db-4df7-a35e-513ce66134ef.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3c08f1c4-ebae-4229-8f92-8c9a81beb6f7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3d55afe6-9fa9-4670-b65a-357e268e226a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3f51223e-eeb4-4c56-b704-92b881992f73.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\40f54300-8f2e-418a-82eb-dfa5cbad7227.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\493bc846-7bc7-4f08-a02d-2c37db5af621.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\503ce505-15d9-43c3-b3fb-5f21e51961e2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\51d1c859-e38c-4102-a7bb-d4e7675a8c03.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\528d2fa0-3037-40da-9115-5ff65849efb2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\571f9af6-3dc5-488a-89ed-5021d2a70bee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\575d58d8-7e9f-4a26-b19a-cd683edc95b0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\5981d71c-a984-460f-ad26-b486ef72dce7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\62af4496-5bd1-4ca3-be1a-31796fcd08ed.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\66920f67-50fc-4f29-a8d2-f35a052d52ee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\680b99b5-5d81-4219-8ca4-41cef29c4029.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\6ae4eba1-269d-46f1-b549-bb91c5c0c268.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\6c029ff8-5de4-4fb2-84a0-ed8d2075fab6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\70ad2742-2af8-4c38-b3e2-ad4a667f0d5e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\7607e7a8-4f2e-4a97-a92b-3f9506215da9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\7621fa31-ad70-4553-9ef8-28f9edb3c555.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\83fc0b57-4fc9-4910-b32c-3d1ecd3232ff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\878f591d-71e3-4aaa-9cc6-4adcc797b34f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\87d5b19f-aa38-4827-85f4-50487f3f0103.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\8df8eb07-1915-4660-9d26-87beab5bd417.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\91d4ca90-3876-4319-8a9f-fab66c4bd099.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\929373fe-3941-489d-9250-833ab609a5c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\93f0fcd7-3eba-4e3e-8808-8a5ef1ed98e9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9637ce1e-9276-4de3-8875-0680c6927fd6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\98fed8fe-5f39-4d77-b6d7-fbe199b78877.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9ccaa4cc-594c-40a5-800c-b25761704735.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9e4a5371-01b5-45d1-870a-95bfa5e3b32c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\a65cd33b-ab04-41d9-8bc8-b9c945ed3cf4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\abd9ca79-6c3e-41fb-a239-f2c303389407.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ae1b9341-4af4-4e15-b60d-5a8391269cfd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ae567861-e512-460b-ae94-20fe865d0f55.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\bec8619e-0384-4adc-802f-145436fac6ec.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\c356a622-0ab9-474f-ab21-33e1811c6d52.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\c5b44974-07af-4cef-a076-b7b582062d6b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\d03f7a22-06af-437c-944e-78db1b2d0a5b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\d17ee0e9-d584-4a76-a0fa-34eb6b2c354c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\e09a22cb-8fdd-4438-a6d6-94faf3b1a13e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\e207d7b4-53a4-4134-9f17-21fe3ebb7ea2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\eb6ba210-fe9c-491e-b1fa-fd9e60ecc506.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ee0990f7-7dee-44d6-b389-a8cf51870ebe.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\f324ae5e-1559-460a-b45f-029c43f5fd68.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fab36ef8-a3dd-4666-b3db-75861be94b2b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fae4a78f-084b-4f11-8d82-77bd175876f1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fc191663-c868-4060-8ec3-6a95942bbe8e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fc7fd757-f2cd-4fd4-b1f1-e5f7470000c1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 19 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_BGreen.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_BGreen.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Blue.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Blue.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Fire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Fire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Green.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Green.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Pink.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Pink.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Purple.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Purple.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Red.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Red.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_White.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_White.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemAmethyst.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemAmethyst.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemBlood.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemBlood.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemEmerald.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemEmerald.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemIce.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemIce.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemObsidian.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemObsidian.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemSapphire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemSapphire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_BGreen.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_BGreen.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Blue.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Blue.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Fire.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Fire.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Green.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Green.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Pink.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Pink.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Purple.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Purple.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Red.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Red.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_White.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_White.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 215 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 4 
  
-[LOG] Total files found across all folders: 28 
+[LOG] Total files found across all folders: 226 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -80,7 +278,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:16:58 AM
+  Started : Wednesday, April 8, 2026 8:29:37 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -91,7 +289,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png 21%  100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -104,7 +302,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           4913510000 Bytes/sec.
    Speed :           281153.297 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:16:58 AM
+   Ended : Wednesday, April 8, 2026 8:29:37 AM
 
  
 [DEBUG] Counting source files 
@@ -130,7 +328,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:17:00 AM
+  Started : Wednesday, April 8, 2026 8:29:39 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -140,16 +338,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   65357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		   65357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         5         5         1         0         0         0
    Files :         1         1         0         0         0         0
    Bytes :    63.8 k    63.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 4:17:00 AM
+   Ended : Wednesday, April 8, 2026 8:29:39 AM
 
  
 [DEBUG] Counting source files 
@@ -175,7 +373,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:17:01 AM
+  Started : Wednesday, April 8, 2026 8:29:41 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -186,7 +384,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7785	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\GUI\metadata.lsf100%  
 	    New File  		    4873	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Localization\English\english.xml100%  
 
@@ -201,7 +399,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2463310000 Bytes/sec.
    Speed :           140951.728 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:17:01 AM
+   Ended : Wednesday, April 8, 2026 8:29:41 AM
 
  
 [DEBUG] Counting source files 
@@ -227,7 +425,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:17:03 AM
+  Started : Wednesday, April 8, 2026 8:29:43 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -254,29 +452,225 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\bf2a9618-0957-8df1-0872-601002335ebc.lsf100%  
 	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\e25d50f4-9992-180c-09ee-a5565aa9e139.lsf100%  
 	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_CCrwn_Pearl\fa2fea5c-ad55-8fa9-a407-dc2d085acdda.lsf100%  
-	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\010ba51c-5883-4bb9-8a1b-5ef8d3ea0927.lsf100%  
+	    New File  		    2586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\04784284-9129-4051-8b44-b41f1bb4e969.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\0a9d9614-13bf-4885-827e-fca7127c643e.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\0ba76160-d49d-40d3-95a7-c2a15d7ea832.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\13c0ef86-e64e-4604-9d3f-0fc4215d243e.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\1b52e8e4-5fc5-4aed-8fc9-5bfb2e2fc905.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\1cad456b-aafb-493f-8e63-81d1350e7e27.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\203439fa-f3c7-4f0c-be1c-77c69957c9b9.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\213db44b-23a0-4922-8b71-144877a250fa.lsf100%  
+	    New File  		    2603	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\21c8953a-bb7e-47ff-b770-3c4d190c9d2b.lsf100%  
+	    New File  		    2581	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\26149df5-9dd3-4cdb-ae0e-934315e3b3e4.lsf100%  
+	    New File  		    2579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\272003f8-a1c7-44f3-ba28-03cfa6745a6d.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2a9632d3-3070-4008-a343-4a6d86beafc1.lsf100%  
+	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2c9011fc-3d64-4a83-8867-0a21c06049a1.lsf100%  
+	    New File  		    2586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\2db44f1c-6d10-46c4-b44e-33db9845efda.lsf100%  
+	    New File  		    2603	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\38416121-a8db-4df7-a35e-513ce66134ef.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3c08f1c4-ebae-4229-8f92-8c9a81beb6f7.lsf100%  
+	    New File  		    2604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3d55afe6-9fa9-4670-b65a-357e268e226a.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\3f51223e-eeb4-4c56-b704-92b881992f73.lsf100%  
+	    New File  		    2586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\40f54300-8f2e-418a-82eb-dfa5cbad7227.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\493bc846-7bc7-4f08-a02d-2c37db5af621.lsf100%  
+	    New File  		    2580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\503ce505-15d9-43c3-b3fb-5f21e51961e2.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\51d1c859-e38c-4102-a7bb-d4e7675a8c03.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\528d2fa0-3037-40da-9115-5ff65849efb2.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\571f9af6-3dc5-488a-89ed-5021d2a70bee.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\575d58d8-7e9f-4a26-b19a-cd683edc95b0.lsf100%  
+	    New File  		    2580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\5981d71c-a984-460f-ad26-b486ef72dce7.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\62af4496-5bd1-4ca3-be1a-31796fcd08ed.lsf100%  
+	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\66920f67-50fc-4f29-a8d2-f35a052d52ee.lsf100%  
+	    New File  		    2602	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\680b99b5-5d81-4219-8ca4-41cef29c4029.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\6ae4eba1-269d-46f1-b549-bb91c5c0c268.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\6c029ff8-5de4-4fb2-84a0-ed8d2075fab6.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\70ad2742-2af8-4c38-b3e2-ad4a667f0d5e.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\7607e7a8-4f2e-4a97-a92b-3f9506215da9.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\7621fa31-ad70-4553-9ef8-28f9edb3c555.lsf100%  
+	    New File  		    2581	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\83fc0b57-4fc9-4910-b32c-3d1ecd3232ff.lsf100%  
+	    New File  		    2580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\878f591d-71e3-4aaa-9cc6-4adcc797b34f.lsf100%  
+	    New File  		    2586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\87d5b19f-aa38-4827-85f4-50487f3f0103.lsf100%  
+	    New File  		    2604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\8df8eb07-1915-4660-9d26-87beab5bd417.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\91d4ca90-3876-4319-8a9f-fab66c4bd099.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\929373fe-3941-489d-9250-833ab609a5c6.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\93f0fcd7-3eba-4e3e-8808-8a5ef1ed98e9.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9637ce1e-9276-4de3-8875-0680c6927fd6.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\98fed8fe-5f39-4d77-b6d7-fbe199b78877.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9ccaa4cc-594c-40a5-800c-b25761704735.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\9e4a5371-01b5-45d1-870a-95bfa5e3b32c.lsf100%  
+	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\a65cd33b-ab04-41d9-8bc8-b9c945ed3cf4.lsf100%  
+	    New File  		    2600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\abd9ca79-6c3e-41fb-a239-f2c303389407.lsf100%  
+	    New File  		    2600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ae1b9341-4af4-4e15-b60d-5a8391269cfd.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ae567861-e512-460b-ae94-20fe865d0f55.lsf100%  
+	    New File  		    2603	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\bec8619e-0384-4adc-802f-145436fac6ec.lsf100%  
+	    New File  		    2605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\c356a622-0ab9-474f-ab21-33e1811c6d52.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\c5b44974-07af-4cef-a076-b7b582062d6b.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\d03f7a22-06af-437c-944e-78db1b2d0a5b.lsf100%  
+	    New File  		    2603	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\d17ee0e9-d584-4a76-a0fa-34eb6b2c354c.lsf100%  
+	    New File  		    2581	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\e09a22cb-8fdd-4438-a6d6-94faf3b1a13e.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\e207d7b4-53a4-4134-9f17-21fe3ebb7ea2.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\eb6ba210-fe9c-491e-b1fa-fd9e60ecc506.lsf100%  
+	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\ee0990f7-7dee-44d6-b389-a8cf51870ebe.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\f324ae5e-1559-460a-b45f-029c43f5fd68.lsf100%  
+	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fab36ef8-a3dd-4666-b3db-75861be94b2b.lsf100%  
+	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fae4a78f-084b-4f11-8d82-77bd175876f1.lsf100%  
+	    New File  		    2585	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fc191663-c868-4060-8ec3-6a95942bbe8e.lsf100%  
+	    New File  		    2589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Content\[PAK]_GlowInkH_Pearl\fc7fd757-f2cd-4fd4-b1f1-e5f7470000c1.lsf100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.GR2100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.GR2100%  
+	    New File  		     196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemAmethyst.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemAmethyst.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemBlood.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemBlood.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemEmerald.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemEmerald.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemIce.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemIce.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemObsidian.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemObsidian.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemSapphire.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemSapphire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazH.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazH.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazY.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_A_GemTopazY.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemAmethyst.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemAmethyst.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemBlood.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemBlood.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemEmerald.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemEmerald.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemIce.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemIce.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemObsidian.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemObsidian.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemSapphire.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemSapphire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazH.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazH.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazY.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_B_GemTopazY.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_BGreen.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_BGreen.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Blue.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Blue.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Fire.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Fire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Green.GR2100%  
+	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Green.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Pink.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Pink.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Purple.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Purple.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Red.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_Red.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_White.GR2100%  
+	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_L_GlowInk_A_C_White.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemAmethyst.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemAmethyst.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemBlood.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemBlood.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemEmerald.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemEmerald.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemIce.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemIce.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemObsidian.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemObsidian.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemSapphire.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemSapphire.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazH.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazH.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazY.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_A_GemTopazY.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemAmethyst.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemAmethyst.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemBlood.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemBlood.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemEmerald.GR2100%  
+	    New File  		     208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemEmerald.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemIce.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemIce.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemObsidian.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemObsidian.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemSapphire.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemSapphire.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazH.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazH.xml100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazY.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PB_R_GlowInk_A_B_GemTopazY.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemAmethyst.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemAmethyst.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemBlood.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemBlood.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemEmerald.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemEmerald.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemIce.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemIce.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemObsidian.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemObsidian.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemSapphire.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemSapphire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazH.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazH.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazY.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_A_GemTopazY.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemAmethyst.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemAmethyst.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemBlood.GR2100%  
+	    New File  		     204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemBlood.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemEmerald.GR2100%  
+	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemEmerald.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemIce.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemIce.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemObsidian.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemObsidian.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemSapphire.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemSapphire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazH.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazH.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazY.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_B_GemTopazY.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_BGreen.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_BGreen.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Blue.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Blue.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Fire.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Fire.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Green.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Green.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Pink.GR2100%  
+	    New File  		     200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Pink.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Purple.GR2100%  
+	    New File  		     202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Purple.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Red.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_Red.xml100%  
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_White.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_PC_GlowInk_A_C_White.xml100%  
 	    New File  		  248480	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2100%  
+	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        12        12         1         0         0         0
-   Files :        19        19         0         0         0         0
-   Bytes :   952.4 k   952.4 k         0         0         0         0
+    Dirs :        17        17         1         0         0         0
+   Files :       215       215         0         0         0         0
+   Bytes :   21.68 m   21.68 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           162549833 Bytes/sec.
-   Speed :            9301.176 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:17:03 AM
+   Speed :           104305261 Bytes/sec.
+   Speed :            5968.394 MegaBytes/min.
+   Ended : Wednesday, April 8, 2026 8:29:43 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 19 
-[DEBUG] Successfully copied files: 19 
+[DEBUG] Total files counted: 215 
+[DEBUG] Successfully copied files: 215 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
-      Total files: 19 
-      Copied successfully: 19 
+      Total files: 215 
+      Copied successfully: 215 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -294,7 +688,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:17:05 AM
+  Started : Wednesday, April 8, 2026 8:29:45 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -304,29 +698,31 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		  326176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A.GR2100%  
+	    New File  		  329492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\DGB_Head_Pack_A_AkELkA\Female\Head_GlowInk\Pearl\DGB_F_NKD_Head_Pearl_C_GlowInk_A_Inv.GR2100%  
 	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
 	    New File  		  248480	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\CrystalCrown\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         9         9         1         0         0         0
-   Files :         2         2         0         0         0         0
-   Bytes :   861.7 k   861.7 k         0         0         0         0
+    Dirs :        13        13         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.46 m    1.46 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           441204000 Bytes/sec.
-   Speed :           25245.895 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:17:05 AM
+   Speed :           170897333 Bytes/sec.
+   Speed :            9778.823 MegaBytes/min.
+   Ended : Wednesday, April 8, 2026 8:29:45 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 2 
-[DEBUG] Successfully copied files: 2 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658: 
-      Total files: 2 
-      Copied successfully: 2 
+      Total files: 4 
+      Copied successfully: 4 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -351,17 +747,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 19 
+[LOG] Files copied by xcopy: 215 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 2 
+[LOG] Files copied by xcopy: 4 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 28 
-[SUMMARY] Total files successfully copied: 56 
+[SUMMARY] Total files found: 226 
+[SUMMARY] Total files successfully copied: 452 
  
 [SUMMARY] All files were copied successfully 
  
