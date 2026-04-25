@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
-   Sat 04/25/2026 15:23:53.18 
+   Sat 04/25/2026 15:31:51.50 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -369,7 +369,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 25, 2026 3:23:56 PM
+  Started : Saturday, April 25, 2026 3:31:55 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -380,7 +380,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png 21%  100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\thumbnail.png 10%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -393,7 +393,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           4913510000 Bytes/sec.
    Speed :           281153.297 MegaBytes/min.
-   Ended : Saturday, April 25, 2026 3:23:56 PM
+   Ended : Saturday, April 25, 2026 3:31:55 PM
 
  
 [DEBUG] Counting source files 
@@ -419,7 +419,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 25, 2026 3:23:58 PM
+  Started : Saturday, April 25, 2026 3:31:56 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -438,7 +438,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :   301.3 k   301.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 25, 2026 3:23:58 PM
+   Ended : Saturday, April 25, 2026 3:31:56 PM
 
  
 [DEBUG] Counting source files 
@@ -464,7 +464,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 25, 2026 3:23:59 PM
+  Started : Saturday, April 25, 2026 3:31:58 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -474,8 +474,8 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    7786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png  0%  100%  
+	    New File  		    7792	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png 21%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\GUI\metadata.lsf100%  
 	    New File  		   29932	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Localization\English\english.xml100%  
 
@@ -488,9 +488,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           4951680000 Bytes/sec.
-   Speed :           283337.402 MegaBytes/min.
-   Ended : Saturday, April 25, 2026 3:23:59 PM
+   Speed :           2475843000 Bytes/sec.
+   Speed :           141668.872 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 3:31:58 PM
 
  
 [DEBUG] Counting source files 
@@ -516,7 +516,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 25, 2026 3:24:01 PM
+  Started : Saturday, April 25, 2026 3:32:00 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -838,9 +838,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            15871692 Bytes/sec.
-   Speed :             908.185 MegaBytes/min.
-   Ended : Saturday, April 25, 2026 3:24:01 PM
+   Speed :            15283851 Bytes/sec.
+   Speed :             874.549 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 3:32:00 PM
 
  
 [DEBUG] Counting source files 
@@ -866,7 +866,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 25, 2026 3:24:02 PM
+  Started : Saturday, April 25, 2026 3:32:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -894,9 +894,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           546584800 Bytes/sec.
-   Speed :           31275.833 MegaBytes/min.
-   Ended : Saturday, April 25, 2026 3:24:02 PM
+   Speed :           683231000 Bytes/sec.
+   Speed :           39094.791 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 3:32:01 PM
 
  
 [DEBUG] Counting source files 
