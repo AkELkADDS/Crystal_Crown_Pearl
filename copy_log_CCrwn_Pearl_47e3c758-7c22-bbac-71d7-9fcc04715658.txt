@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658 
-   Wed 04/15/2026 11:22:51.19 
+   Sat 04/25/2026 14:56:16.04 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -369,7 +369,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 11:23:02 AM
+  Started : Saturday, April 25, 2026 2:56:19 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Projects\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -391,9 +391,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           4913510000 Bytes/sec.
-   Speed :           281153.297 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 11:23:02 AM
+   Speed :           2456755000 Bytes/sec.
+   Speed :           140576.648 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 2:56:19 PM
 
  
 [DEBUG] Counting source files 
@@ -419,7 +419,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 11:23:04 AM
+  Started : Saturday, April 25, 2026 2:56:20 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Editor\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -440,9 +440,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           308625000 Bytes/sec.
-   Speed :           17659.664 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 11:23:04 AM
+   Speed :            51437500 Bytes/sec.
+   Speed :            2943.277 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 2:56:20 PM
 
  
 [DEBUG] Counting source files 
@@ -468,7 +468,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 11:23:06 AM
+  Started : Saturday, April 25, 2026 2:56:22 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -479,7 +479,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\meta.lsx100%  
-	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\GUI\metadata.lsf100%  
 	    New File  		   22369	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Localization\English\english.xml100%  
 
@@ -492,9 +492,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1648039000 Bytes/sec.
-   Speed :            94301.548 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 11:23:06 AM
+   Speed :           4944117000 Bytes/sec.
+   Speed :           282904.644 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 2:56:22 PM
 
  
 [DEBUG] Counting source files 
@@ -520,7 +520,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 11:23:08 AM
+  Started : Saturday, April 25, 2026 2:56:24 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -842,9 +842,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            13311741 Bytes/sec.
-   Speed :             761.703 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 11:23:08 AM
+   Speed :             5771524 Bytes/sec.
+   Speed :             330.249 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 2:56:24 PM
 
  
 [DEBUG] Counting source files 
@@ -870,7 +870,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, April 15, 2026 11:23:10 AM
+  Started : Saturday, April 25, 2026 2:56:26 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
      Dest : C:\GIT_BG3\MOD_REPOS\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\Generated\Public\CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658\
 
@@ -898,9 +898,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           210224923 Bytes/sec.
-   Speed :           12029.166 MegaBytes/min.
-   Ended : Wednesday, April 15, 2026 11:23:10 AM
+   Speed :           248447636 Bytes/sec.
+   Speed :           14216.287 MegaBytes/min.
+   Ended : Saturday, April 25, 2026 2:56:26 PM
 
  
 [DEBUG] Counting source files 
